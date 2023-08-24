@@ -1,0 +1,17 @@
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\bin\Debug\net6.0-windows\Tarea2.exe
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\bin\Debug\net6.0-windows\Tarea2.deps.json
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\bin\Debug\net6.0-windows\Tarea2.runtimeconfig.json
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\bin\Debug\net6.0-windows\Tarea2.dll
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\bin\Debug\net6.0-windows\Tarea2.pdb
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\Tarea2.csproj.AssemblyReference.cache
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\Tarea2.Form1.resources
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\Tarea2.csproj.GenerateResource.cache
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\Tarea2.AssemblyInfoInputs.cache
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\Tarea2.AssemblyInfo.cs
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\Tarea2.dll
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\refint\Tarea2.dll
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\Tarea2.pdb
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\Tarea2.genruntimeconfig.cache
+C:\Users\benit\OneDrive\Escritorio\POE\Tarea02\Tarea2\obj\Debug\net6.0-windows\ref\Tarea2.dll
